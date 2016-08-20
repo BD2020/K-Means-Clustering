@@ -1,10 +1,12 @@
-# K-Means_Clustering_w_Titanic_data
+# K-Means Clustering with Titanicdata
 # 
 # Using K-Means Clustering, we create two cluster
 # groups of Titanic passenger data:
 # Survived
 # Didn't Survive
-#
+# 
+# and determine the probability of survival based on
+# passenger feature set data
 
 import sys
 import os
