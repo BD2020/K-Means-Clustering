@@ -44,10 +44,8 @@ home.dest Home/Destination
 # Q2: will K means sep two groups into survived / died
 
 cwd = os.getcwd()
-#print("Get CWD", cwd)
-# C:\ML_Data\_Titanic\sentdex
 #
-os.chdir("C:\\ML_Data\\_Titanic\\sentdex")
+os.chdir("C:\\ML_Data\\_Titanic")
 
 df = pd.read_excel('titanic.xls')
 
