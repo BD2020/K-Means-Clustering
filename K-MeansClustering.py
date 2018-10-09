@@ -182,7 +182,7 @@ print("accuracy: ", correct / len(X))
 
 ##########################
 
-# example output with accuracy:
+# example output with accuracy: 
 """
 pclass  survived  sex      age  sibsp  parch  ticket      fare  cabin  \
 0       1         1    1  29.0000      0      0     755  211.3375    108   
